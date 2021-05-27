@@ -5,8 +5,6 @@
 #### https://replit.com/@NikhilBelide/STARWARSUA?embed=1&output=1#index.js
 
 
-Indented code
-
     // levelZero QnA
     Stawars franchise was created by? george lucas
   
