@@ -8,17 +8,16 @@
 Indented code
 
     // Some comments
-    levelZero=[
-  Stawars franchise was created by? george lucas
+    levelZero QnA
+    Stawars franchise was created by? george lucas
   
-  In which year did the first Starwars film release?--",a:"1977"
+    In which year did the first Starwars film release?--",a:"1977"
   
-  In which Starwars flim did Emilia Clarke star--",a:"Solo"
+    In which Starwars flim did Emilia Clarke star--",a:"Solo"
   
-  Who was the first Skywalker?--",a:"Shmi skywalker"
+    Who was the first Skywalker?--",a:"Shmi skywalker"
   
-  "What was the last Starwars flim in theatres?--",a:"Rise of skywalker"
- ]
+    "What was the last Starwars flim in theatres?--",a:"Rise of skywalker"
 
   
   
