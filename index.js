@@ -14,13 +14,13 @@ var high=[
 console.log(chalk.magentaBright.bold("Hey there, This is Nikhil.\nHope you are doing safe during this pandemic.\n"))
 
 var user_name=readlineSync.question(chalk.blueBright.bold.underline("What should I call you?-"))
-console.log(chalk.yellowBright.bold("\n Hey " +user_name.toUpperCase()+",\n\n This is a quiz on STARWARS, Let's get started \n"))
+console.log(chalk.yellowBright.bold("\n Hey " +user_name.toUpperCase()+",\n\n This is a quiz based on STARWARS franchise\n"))
 
-console.log(chalk.greenBright("Here are the rules:\n1. Every correct answer adds one point to the score \n2. There is no penalty for wrong answers.\n3. There are 2 levels, answer all the questions on levelZero to reach Level1"))
+console.log(chalk.greenBright("Here are the rules:\n1. Every correct answer adds one point to the score \n2. There is no penalty for wrong answers.\n3. There are 2 levels, answer all the questions on levelZero to reach Level1\n\nNOTE--This quiz is a two level play where if the user clears L1 then his name is replaced with current winner"))
 // ===========levels using arrays and objects================
 var levelZero=[
   {q:"\nStawars franchise was created by?--",a:"george lucas"},
-  {q:"In which year did the first Starwars flim release?--",a:"1977"},
+  {q:"In which year did the first Starwars film release?--",a:"1977"},
   {q:"In which Starwars flim did Emilia Clarke star--",a:"Solo"},
   {q:"Who was the first Skywalker?--",a:"Shmi skywalker"},
   {q:"What was the last Starwars flim in theatres?--",a:"Rise of skywalker"}]
