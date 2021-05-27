@@ -7,8 +7,7 @@
 
 Indented code
 
-    // Some comments
-    levelZero QnA
+    // levelZero QnA
     Stawars franchise was created by? george lucas
   
     In which year did the first Starwars film release?--",a:"1977"
@@ -19,17 +18,15 @@ Indented code
   
     "What was the last Starwars flim in theatres?--",a:"Rise of skywalker"
 
+   
   
+    //levelOne QnA
+    "Name of the latest starwars series?--", "Mandalorian"
   
-var levelOne=[
-  "Name of the latest starwars series?--", "Mandalorian"
+    "How many triologies does Starwars have?--", "Three"
   
- "How many triologies does Starwars have?--", "Three"
+    "What's the best Starwars vehicle?--","Millennium Falcon"
   
- "What's the best Starwars vehicle?--","Millennium Falcon"
+    "Next Starwars film?--",a:"Rogue Squadron"
   
- "Next Starwars film?--",a:"Rogue Squadron"
-  
- "upcoming starwars series?--","Andor"
-  
-]
+    "upcoming starwars series?--","Andor"
