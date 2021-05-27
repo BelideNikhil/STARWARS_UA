@@ -11,13 +11,13 @@ var high=[
   {user:'Google',score:10},
 ]
 // -------------intro part-------------------
-console.log(chalk.magentaBright.bold("Hey there, This is Nikhil.\nHope you are doing safe during this pandemic\n"))
+console.log(chalk.magentaBright.bold("Hey there, This is Nikhil.\nHope you are doing safe during this pandemic.\n"))
 
 var user_name=readlineSync.question(chalk.blueBright.bold.underline("What should I call you?-"))
 console.log(chalk.yellowBright.bold("\n Hey " +user_name.toUpperCase()+",\n\n This is a quiz on STARWARS, Let's get started \n"))
 
 console.log(chalk.greenBright("Here are the rules:\n1. Every correct answer adds one point to the score \n2. There is no penalty for wrong answers.\n3. There are 2 levels, answer all the questions on levelZero to reach Level1"))
-// =============================
+// ===========levels using arrays and objects================
 var levelZero=[
   {q:"\nStawars franchise was created by?--",a:"george lucas"},
   {q:"In which year did the first Starwars flim release?--",a:"1977"},
@@ -31,7 +31,7 @@ var levelOne=[
   {q:"What's the best Starwars vehicle?--",a:"Millennium Falcon"},
   {q:"Next Starwars film?--",a:"Rogue Squadron"},
   {q:"upcoming starwars series?--",a:"Andor"}]
-// ==============================
+// ============output==================
 function game(question,answer){
   var user_answer=readlineSync.question(question)
   if(user_answer.toUpperCase()===answer.toUpperCase()){
@@ -46,7 +46,7 @@ function game(question,answer){
   }
   console.log(chalk.yellowBright("current score--" +score+"\n"))
 }
-// ====================================
+// ===================input=================
 function on_level(level){
   for(var i=0;i<level.length;i++){
     var enter=readlineSync.question(chalk.blue.bold("Press Y to continue,any other key to quit the Quiz anytime--"))
@@ -58,10 +58,8 @@ function on_level(level){
       var holder=level[i];
       game(holder.q,holder.a)
     }
-    
   }
 }
-
 // =============for final results===============
 function result(level){
   console.log(chalk.blue("========\nTotal questions-"+(score +wrong)))
