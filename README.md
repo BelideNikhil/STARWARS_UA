@@ -17,7 +17,6 @@
     "What was the last Starwars flim in theatres?--",a:"Rise of skywalker"
 
    
-  
     //levelOne QnA
     "Name of the latest starwars series?--", "Mandalorian"
   
