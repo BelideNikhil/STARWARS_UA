@@ -5,8 +5,10 @@
 #### https://replit.com/@NikhilBelide/STARWARSUA?embed=1&output=1#index.js
 
 
+Indented code
 
-levelZero=[
+    // Some comments
+    levelZero=[
   Stawars franchise was created by? george lucas
   
   In which year did the first Starwars film release?--",a:"1977"
@@ -17,6 +19,7 @@ levelZero=[
   
   "What was the last Starwars flim in theatres?--",a:"Rise of skywalker"
  ]
+
   
   
 var levelOne=[
