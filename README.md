@@ -7,27 +7,27 @@
 
 
 levelZero=[
-  Stawars franchise was created by?--",a:"george lucas"}
+  Stawars franchise was created by? george lucas
   
-  {q:"In which year did the first Starwars film release?--",a:"1977"
+  In which year did the first Starwars film release?--",a:"1977"
   
-  {q:"In which Starwars flim did Emilia Clarke star--",a:"Solo"
+  In which Starwars flim did Emilia Clarke star--",a:"Solo"
   
-  {q:"Who was the first Skywalker?--",a:"Shmi skywalker"}
+  Who was the first Skywalker?--",a:"Shmi skywalker"
   
-  {q:"What was the last Starwars flim in theatres?--",a:"Rise of skywalker"}
+  "What was the last Starwars flim in theatres?--",a:"Rise of skywalker"
  ]
   
   
 var levelOne=[
-  {q:"Name of the latest starwars series?--",a:"Mandalorian"
+  "Name of the latest starwars series?--", "Mandalorian"
   
-  {q:"How many triologies does Starwars have?--",a:"Three"
+ "How many triologies does Starwars have?--", "Three"
   
-  {q:"What's the best Starwars vehicle?--",a:"Millennium Falcon"
+ "What's the best Starwars vehicle?--","Millennium Falcon"
   
-  {q:"Next Starwars film?--",a:"Rogue Squadron"
+ "Next Starwars film?--",a:"Rogue Squadron"
   
-  {q:"upcoming starwars series?--",a:"Andor"
+ "upcoming starwars series?--","Andor"
   
 ]
