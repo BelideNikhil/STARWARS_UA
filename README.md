@@ -8,13 +8,13 @@
     // levelZero QnA
     Stawars franchise was created by? george lucas
   
-    In which year did the first Starwars film release?--",a:"1977"
+    In which year did the first Starwars film release?--","1977"
   
-    In which Starwars flim did Emilia Clarke star--",a:"Solo"
+    In which Starwars flim did Emilia Clarke star--","Solo"
   
-    Who was the first Skywalker?--",a:"Shmi skywalker"
+    Who was the first Skywalker?--","Shmi skywalker"
   
-    "What was the last Starwars flim in theatres?--",a:"Rise of skywalker"
+    "What was the last Starwars flim in theatres?--","Rise of skywalker"
 
    
     //levelOne QnA
@@ -24,6 +24,6 @@
   
     "What's the best Starwars vehicle?--","Millennium Falcon"
   
-    "Next Starwars film?--",a:"Rogue Squadron"
+    "Next Starwars film?--","Rogue Squadron"
   
     "upcoming starwars series?--","Andor"
