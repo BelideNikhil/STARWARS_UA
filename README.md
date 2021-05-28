@@ -28,4 +28,4 @@
   
     "upcoming starwars series?--","Andor"
     
-    [Starwars](https://www.aljazeera.com/wp-content/uploads/2021/05/starwars.jpg?resize=1200%2C630)
+    ![Starwars](https://www.aljazeera.com/wp-content/uploads/2021/05/starwars.jpg?resize=1200%2C630)
