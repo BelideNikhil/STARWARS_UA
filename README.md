@@ -1,4 +1,6 @@
-# STARWARS Ultimate Quiz
+## STARWARS Ultimate Quiz.
+### This is CLI based game that test your knowledege on how much you know about me
+
 ##### This quiz is a two level play where if the user wins the game then his name is replaced withe current winner data
 
 
