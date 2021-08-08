@@ -37,6 +37,7 @@ var user_answer;
 function game(question,answer){
   user_answer=readlineSync.question(question)
   while(user_answer.length<1){
+    console.log(chalk.red("Please enter an answer"))
     user_answer=readlineSync.question(question)
   }
   
