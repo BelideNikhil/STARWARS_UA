@@ -1,33 +1,33 @@
 ## STARWARS Ultimate Quiz.
-### This is CLI based game that test your knowledege on how much you know about me
+### This is CLI based game that tests your knowledege on how much you know about STARWARS.
 
-##### This quiz is a two level play where if the user wins the game then his name is replaced withe current winner data
+##### This quiz is a two level play where if the user wins the game then his name is replaced with current winner.
 
 
 #### https://replit.com/@NikhilBelide/STARWARSUA?embed=1&output=1#index.js
 
 
     // levelZero QnA
-    Stawars franchise was created by? george lucas
+    1. Stawars franchise was created by? george lucas
   
-    In which year did the first Starwars film release?--","1977"
+    2. In which year did the first Starwars film release?--","1977"
   
-    In which Starwars flim did Emilia Clarke star--","Solo"
+    3. In which Starwars flim did Emilia Clarke star--","Solo"
   
-    Who was the first Skywalker?--","Shmi skywalker"
+    4. Who was the first Skywalker?--","Shmi skywalker"
   
-    "What was the last Starwars flim in theatres?--","Rise of skywalker"
+    5. What was the last Starwars flim in theatres?-,"Rise of skywalker"
 
    
     //levelOne QnA
-    "Name of the latest starwars series?--", "Mandalorian"
+    6. Name of the latest starwars series?--, "Mandalorian"
   
-    "How many triologies does Starwars have?--", "Three"
+    7. Starwars has 3 triologies--YES or NO?--", "YES"
   
-    "What's the best Starwars vehicle?--","Millennium Falcon"
+    8. What's the best Starwars vehicle?--,"Millennium Falcon"
   
-    "Next Starwars film?--","Rogue Squadron"
+    9. Next Starwars film?--,"Rogue Squadron"
   
-    "upcoming starwars series?--","Andor"
+    10. Upcoming starwars series?--,"Andor"
     
   ![Starwars-yoda](https://images.unsplash.com/photo-1601814933824-fd0b574dd592?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80)
